@@ -48,6 +48,6 @@ This pack is geared towards frontend Vue project development.
 - install the [Visual Studio Core Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) globally by executing ```npm install -g vsce``` in your terminal.
 - create a branch for your changes.
 - make your changes to the `extensionPack` section of `package.json`.
-- update `README.md` (and if necessary also`CHANGELOG.md`) accordingly.
+- update `README.md` (and if necessary also `CHANGELOG.md`) accordingly.
 - in the root folder of the repo run ```vsce package```.  
 - submit a pull request with your changes and include a description.
