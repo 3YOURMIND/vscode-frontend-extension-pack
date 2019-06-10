@@ -39,16 +39,16 @@ This pack is geared towards frontend Vue project development.
 ## Installation
 
 - download or clone the repo to your drive.
-- install the .vsix file by with the command ```code --install-extension 3yourmind-frontend-recommended-0.0.1.vsix``` in the root folder of the repo, or follow these [instructions](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix).
+- install the .vsix file with the command ```code --install-extension 3yourmind-frontend-recommended-0.0.1.vsix``` in the root folder of the repo, or follow these [instructions](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix).
 
 ## To contribute
 
-- install the vsce CLI tool (Visual Studio Core Extension)[https://code.visualstudio.com/api/working-with-extensions/publishing-extension] globally by doing:
+- install the vsce CLI tool [Visual Studio Core Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) globally by doing:
  ```npm install -g vsce``` 
 - create a branch or fork the repo
-- edit the `extensionPack` section of the `package.json` file by adding and removing items.
-- edit the `README.md` file to reflect the changes.
-- in the root folder of the repo run vsce package and follow the dialoge.  
+- make your changes to the `extensionPack` section of `package.json`.
+- update `README.md` and if necessary also`CHANGELOG.md` to reflect your changes.
+- in the root folder of the repo run '''vsce package''' and follow the dialoge.  
 - if desired - submit pull request and please remember to include a description with your PR.
 
 ## Changelog
