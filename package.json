@@ -2,7 +2,7 @@
 	"name": "3yourmind-frontend-recommended",
 	"publisher": "3yourmind",
 	"displayName": "3yourmind Frontend Pack",
-	"description": "This pack bundles together recommended extensions for frontend development in a VueJS enviornment",
+	"description": "Recommended extensions for frontend VueJS development",
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
