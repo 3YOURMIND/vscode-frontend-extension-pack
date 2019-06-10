@@ -1,8 +1,8 @@
 {
 	"name": "3yourmind-frontend-recommended",
 	"publisher": "3yourmind",
-	"displayName": "3yourmind-frontend-recommended",
-	"description": "This pack bundles together recommended extensions for frontend development in a Vue enviornment using VSC",
+	"displayName": "3yourmind Frontend Pack",
+	"description": "This pack bundles together recommended extensions for frontend development in a VueJS enviornment",
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
