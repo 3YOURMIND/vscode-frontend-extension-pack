@@ -37,19 +37,17 @@ This pack is geared towards frontend Vue project development.
 - [Vue Peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
 - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-)
 
 ## Installation
 
-- download or clone the repo to your drive.
-- install the .vsix file with the command ```code --install-extension 3yourmind-frontend-recommended-0.0.1.vsix``` in the root folder of the repo, or follow these [instructions](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix).
+- clone the extension pack's repository.
+- install the .vsix file by executing ```code --install-extension 3yourmind-frontend-recommended-0.0.1.vsix``` in your terminal (in the root folder of the cloned repository).
 
 ## To contribute
 
-- install the vsce CLI tool [Visual Studio Core Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) globally by doing:
- ```npm install -g vsce```
-- create a branch or fork the repo
+- install the [Visual Studio Core Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) globally by executing ```npm install -g vsce``` in your terminal.
+- create a branch for your changes.
 - make your changes to the `extensionPack` section of `package.json`.
-- update `README.md` and if necessary also`CHANGELOG.md` to reflect your changes.
-- in the root folder of the repo run '''vsce package''' and follow the dialoge.  
-- if desired - submit pull request and please remember to include a description with your PR.
+- update `README.md` (and if necessary also`CHANGELOG.md`) accordingly.
+- in the root folder of the repo run ```vsce package```.  
+- submit a pull request with your changes and include a description.
