@@ -1,0 +1,47 @@
+{
+    "name": "3yourmind-frontend-recommended",
+    "publisher": "3yourmind",
+    "displayName": "3yourmind-frontend-recommended",
+    "description": "This pack bundles together recommended extensions for frontend development in a Vue enviornment using VSC",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bierner.color-info", 
+        "ChakrounAnas.turbo-console-log", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "chrmarti.regex", 
+        "codezombiech.gitignore", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dariofuzinato.vue-peek", 
+        "DavidAnson.vscode-markdownlint", 
+        "dbaeumer.vscode-eslint",  
+        "eamodio.gitlens", 
+        "ecmel.vscode-html-css", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-complete-tag", 
+        "foxundermoon.shell-format", 
+        "ghmcadams.lintlens", 
+        "Gruntfuggly.todo-tree",
+        "kisstkondoros.vscode-codemetrics", 
+        "mikestead.dotenv", 
+        "msjsdiag.debugger-for-chrome", 
+        "octref.vetur", 
+        "oderwat.indent-rainbow", 
+        "PeterJausovec.vscode-docker", 
+        "redhat.vscode-yaml", 
+        "sdras.vue-vscode-snippets",
+        "shuworks.vscode-table-formatter",  
+        "SirTori.indenticator", 
+        "ue.alphabetical-sorter", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscode-icons-team.vscode-icons", 
+        "wayou.vscode-todo-highlight", 
+        "wix.vscode-import-cost" 
+    ]
+}
