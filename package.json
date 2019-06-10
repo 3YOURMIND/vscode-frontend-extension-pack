@@ -6,7 +6,7 @@
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Goldziher/3yourmind-vsc-ep.git"
+		"url": "https://github.com/3YOURMIND/vscode-frontend-extension-pack.git"
     },
     "license": "MIT",
 	"engines": {
