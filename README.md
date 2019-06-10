@@ -6,6 +6,7 @@ This pack is geared towards frontend Vue project development.
 
 - [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
 - [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)
+- [Babel Javascript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -14,6 +15,7 @@ This pack is geared towards frontend Vue project development.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Hightlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
@@ -35,6 +37,7 @@ This pack is geared towards frontend Vue project development.
 - [Vue Peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
 - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+)
 
 ## Installation
 
@@ -44,13 +47,9 @@ This pack is geared towards frontend Vue project development.
 ## To contribute
 
 - install the vsce CLI tool [Visual Studio Core Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) globally by doing:
- ```npm install -g vsce``` 
+ ```npm install -g vsce```
 - create a branch or fork the repo
 - make your changes to the `extensionPack` section of `package.json`.
 - update `README.md` and if necessary also`CHANGELOG.md` to reflect your changes.
 - in the root folder of the repo run '''vsce package''' and follow the dialoge.  
 - if desired - submit pull request and please remember to include a description with your PR.
-
-## Changelog
-
-v0.0.01: Initial setup, readme and included extensions

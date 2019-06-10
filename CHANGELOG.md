@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "3yourmind-frontend-recommended" extension pack will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [0.0.1] Initial
+    - Project setup using [yo](https://www.npmjs.com/package/yo) and [yeoman-generator](https://www.npmjs.com/package/yeoman-generator)
+    - Added base extensions
+    - Added .md files
