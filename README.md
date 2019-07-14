@@ -27,6 +27,7 @@ This pack is geared towards frontend Vue project development.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 - [Shell Format](https://marketplace.visualstudio.com/search?term=shell%20format&target=VSCode&category=All%20categories&sortBy=Relevance)
 - [Table Formatter](https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter)
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
@@ -41,13 +42,13 @@ This pack is geared towards frontend Vue project development.
 ## Installation
 
 - clone the pack's repository.
-- install the .vsix file by executing ```code --install-extension 3yourmind-frontend-recommended-0.0.1.vsix``` in your terminal (in the root folder of the cloned repository).
+- install the .vsix file by executing `code --install-extension 3yourmind-frontend-recommended-0.0.1.vsix` in your terminal (in the root folder of the cloned repository).
 
 ## To contribute
 
-- install the [Visual Studio Core Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) globally by executing ```npm install -g vsce``` in your terminal.
+- install the [Visual Studio Core Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) globally by executing `npm install -g vsce` in your terminal.
 - create a branch for your changes.
 - make your changes to the `extensionPack` section of `package.json`.
 - update `README.md` (and if necessary also `CHANGELOG.md`) accordingly.
-- in the root folder of the repo run ```vsce package```.  
+- in the root folder of the repo run `vsce package`.
 - submit a pull request with your changes and include a description.
