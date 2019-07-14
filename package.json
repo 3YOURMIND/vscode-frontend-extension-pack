@@ -1,55 +1,55 @@
 {
-  "name": "3yourmind-frontend-recommended",
-  "publisher": "3yourmind",
-  "displayName": "3YOURMIND Frontend Recommended",
-  "description": "Recommended extensions for frontend VueJS development",
-  "version": "0.0.2",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/3YOURMIND/vscode-frontend-extension-pack.git"
-  },
-  "license": "MIT",
-  "engines": {
-    "vscode": "^1.35.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [
-    "bierner.color-info",
-    "ChakrounAnas.turbo-console-log",
-    "christian-kohler.npm-intellisense",
-    "christian-kohler.path-intellisense",
-    "chrmarti.regex",
-    "codezombiech.gitignore",
-    "CoenraadS.bracket-pair-colorizer",
-    "dariofuzinato.vue-peek",
-    "DavidAnson.vscode-markdownlint",
-    "dbaeumer.vscode-eslint",
-    "eamodio.gitlens",
-    "ecmel.vscode-html-css",
-    "esbenp.prettier-vscode",
-    "formulahendry.auto-complete-tag",
-    "foxundermoon.shell-format",
-    "ghmcadams.lintlens",
-    "Gruntfuggly.todo-tree",
-    "kisstkondoros.vscode-codemetrics",
-    "mgmcdermott.vscode-language-babel",
-    "mikestead.dotenv",
-    "msjsdiag.debugger-for-chrome",
-    "octref.vetur",
-    "oderwat.indent-rainbow",
-    "PeterJausovec.vscode-docker",
-    "redhat.vscode-yaml",
-    "sdras.vue-vscode-snippets",
-    "shinnn.stylelint",
-    "shuworks.vscode-table-formatter",
-    "SirTori.indenticator",
-    "ue.alphabetical-sorter",
-    "vincaslt.highlight-matching-tag",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "vscode-icons-team.vscode-icons",
-    "wayou.vscode-todo-highlight",
-    "wix.vscode-import-cost"
-  ]
+	"name": "3yourmind-frontend-recommended",
+	"publisher": "3yourmind",
+	"displayName": "3YOURMIND Frontend Recommended",
+	"description": "Recommended extensions for frontend VueJS development",
+	"version": "0.0.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/3YOURMIND/vscode-frontend-extension-pack.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"bierner.color-info",
+		"ChakrounAnas.turbo-console-log",
+		"christian-kohler.npm-intellisense",
+		"christian-kohler.path-intellisense",
+		"chrmarti.regex",
+		"codezombiech.gitignore",
+		"CoenraadS.bracket-pair-colorizer",
+		"dariofuzinato.vue-peek",
+		"DavidAnson.vscode-markdownlint",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"ecmel.vscode-html-css",
+		"esbenp.prettier-vscode",
+		"formulahendry.auto-complete-tag",
+		"foxundermoon.shell-format",
+		"ghmcadams.lintlens",
+		"Gruntfuggly.todo-tree",
+		"kisstkondoros.vscode-codemetrics",
+		"mgmcdermott.vscode-language-babel",
+		"mikestead.dotenv",
+		"msjsdiag.debugger-for-chrome",
+		"octref.vetur",
+		"oderwat.indent-rainbow",
+		"PeterJausovec.vscode-docker",
+		"redhat.vscode-yaml",
+		"sdras.vue-vscode-snippets",
+		"shinnn.stylelint",
+		"shuworks.vscode-table-formatter",
+		"SirTori.indenticator",
+		"ue.alphabetical-sorter",
+		"vincaslt.highlight-matching-tag",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"vscode-icons-team.vscode-icons",
+		"wayou.vscode-todo-highlight",
+		"wix.vscode-import-cost"
+	]
 }
