@@ -43,7 +43,7 @@ This pack is geared towards frontend Vue project development.
 
 - clone the pack's repository.
 - [optional] you can clear all preexisting vscode extensions by deleting all the files in your `~/.vscode/extensions` folder (linux/mac) or `%USER%\\.vscode\extensions` (windows).
-- install the .vsix file by executing `code --install-extension 3yourmind-frontend-recommended-0.0.1.vsix` in your terminal (in the root folder of the cloned repository).
+- install the .vsix file by executing `code --install-extension 3yourmind-frontend-recommended-0.0.2.vsix` in your terminal (in the root folder of the cloned repository).
 
 ## To contribute
 
